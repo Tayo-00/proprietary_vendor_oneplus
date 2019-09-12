@@ -1514,3 +1514,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     WfdCommon \
     dashd
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/oneplus/sm8150-common
