@@ -1504,7 +1504,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
     WfdService \
-    com.qualcomm.location \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
